@@ -2,7 +2,7 @@
 
 Este perfil está em construção. Em breve, mais informações serão adicionadas.
 
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesrai&layout=compact&theme=dracula)
 <!--
 **rodriguesrai/rodriguesrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
