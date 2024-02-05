@@ -1,8 +1,24 @@
 # Perfil em Construção
+Olá, eu sou o Raí! 👋 Este é o meu espaço no GitHub, onde trabalho em projetos de desenvolvimento web e busco constantemente aprender e evoluir.
 
-Este perfil está em construção. Em breve, mais informações serão adicionadas.
+## Sobre mim:
 
+* Desenvolvedor Full-Stack.
+* Tenho paixão por tecnologia e por criar soluções inovadoras que ajude as pessoas.
+* Sou uma pessoa proativa, com espírito de equipe e facilidade de aprendizado.
+
+## Minhas habilidades:
+*
+*
+*
+*
+*
+
+## Estatísticas do GitHub 📊
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesrai&layout=compact&theme=dracula)
+
+## Contato 📬
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([Seu link do LinkedIn](https://www.linkedin.com/in/rai-rodrigues/))
 <!--
 **rodriguesrai/rodriguesrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
