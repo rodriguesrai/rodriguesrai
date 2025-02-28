@@ -4,7 +4,6 @@ Olá, eu sou o Raí! 👋 Este é o meu espaço no GitHub, onde trabalho em proj
 ## Sobre mim:
 
 * Desenvolvedor Full-Stack.
-* Tenho paixão por tecnologia e por criar soluções inovadoras que ajude as pessoas.
 * Sou uma pessoa proativa, com espírito de equipe e facilidade de aprendizado.
 
 ## Linguagens e Frameworks:
